@@ -67,3 +67,4 @@ def zap(input_url, archive, domain, host, internal, robots, proxies,verf):
                 # Cleaning up the URL and adding it to the internal list for
                 # crawling
                 internal.add(match)
+                
